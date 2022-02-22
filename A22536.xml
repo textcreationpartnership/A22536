@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation forbidding the disorderly trading with the saluages in New England in America, especially the furnishing of the natiues in those and other parts of America by the English with weapons, and habiliments of warre.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22536</idno>
+            <idno type="STC">STC 8969</idno>
+            <idno type="STC">ESTC S3585</idno>
+            <idno type="EEBO-CITATION">33150522</idno>
+            <idno type="OCLC">ocm 33150522</idno>
+            <idno type="VID">28644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28644)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:131)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation forbidding the disorderly trading with the saluages in New England in America, especially the furnishing of the natiues in those and other parts of America by the English with weapons, and habiliments of warre.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1630.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: faded, with slight loss of text.</note>
+                  <note>"Giuen at Our Court at Whitehall, the foure and twentieth day of Nouember, in the sixt yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of North America --  Commerce --  Great Britain --  Early works to 1800.</term>
+               <term>Indians of North America --  History --  17th century.</term>
+               <term>New England --  History --  Colonial period, ca. 1600-1775.</term>
+               <term>Great Britain --  Colonies --  America.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Colonies --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:28644:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the British royal family encircled by the order of the garter and beneath a helmet and plumes, crowned, topped by a crowned lion, and with a lion and a unicorn on either side</figDesc>
+                  <head>
+                     <q>HONI SOIT QVI MAY Y PENSE</q>
+                  </head>
+                  <head>
+                     <q>DIEV ET MON DROIT</q>
+                  </head>
+               </figure> ¶ By the King. <g ref="char:leaf">❧</g> A Proclamation forbidding the diſorderly Trading with the Saluages in New England in Ame<g ref="char:EOLhyphen"/>rica, eſpecially the furniſhing of the Natiues in thoſe and other parts of America by the Engliſh with Weapons, and Habiliments of Warre.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas a Proclamation was heretofore publi<g ref="char:EOLhyphen"/>ſhed</hi> by Our deare Father King <hi>IAMES</hi> of bleſſed memorie, in the twentieth yeere of His Reigne, for the better ſupportation and Reiglement of the Plantations within Our Territory of <hi>New England</hi> in <hi>America,</hi> whereby, amongſt diuers other things, the in<g ref="char:EOLhyphen"/>ſufferable abuſes committed by diuers Interloping and irregular Merchants, and diſobedient Fiſhermen and Mariners, were pro<g ref="char:EOLhyphen"/>hibited, who ſeeking only their preſent and priuate profit, did Trade with the Saluages of that Countrey, and to the great preiudice and danger of Our louing Subiects the Planters there, did Barter away to the Saluages, Swords, Pikes, Muſ<g ref="char:EOLhyphen"/>kets, Fowling Pieces, Match, Powder, Shotte, and other Warlike Armes, Weapons, and Munition, and teach them the vſe thereof, not onely to their owne preſent ruine (di<g ref="char:EOLhyphen"/>uers of them hauing been ſlaughtered by the barbarous people with their owne Weapons formerly ſold by them) but alſo to the great hazard of the liues of the Engliſh already, plan<g ref="char:EOLhyphen"/>ted there, and to the apparant deſtruction of that hopefull Plantation.</p>
+            <p>Wee, being informed that theſe abuſes are ſtill continued to the indangering of that Plan<g ref="char:EOLhyphen"/>tation, and that the like abuſes are alſo practiſed in other Forreigne Plantations: Out of Our Princely care for the proſperity of theſe Colonies, which being well gouerned may be of great vſe to this Nation, for the reformation and preuention of theſe and the like enor<g ref="char:EOLhyphen"/>mities for the future.</p>
+            <pb facs="tcp:28644:2"/>
+            <p>And to the end that the Royal Grant of Our late Father to the Preſident and Counſell of <hi>New England</hi> aforeſayd, may bee maintained and vpholden, and that the Planters there, and aduenturers thither, may bee encouraged by all good wayes and meanes to proceede in their worthy deſignes, haue thought it fit, and doe hereby ſtraitly charge and command, That none of Our Subiects whatſoeuer (who are not Aduenturers, Inhabiters, or Plan<g ref="char:EOLhyphen"/>ters, authoriſed by Our Preſident and Counſell for <hi>New England,</hi> according to the ſayd Let<g ref="char:EOLhyphen"/>ters Patents) doe preſume from hencefoorth to frequent thoſe Coaſts to Trade or Traf<g ref="char:EOLhyphen"/>fique at all with the Natiue people of thoſe Countreys, or to intermeddle with the Woods, or Grounds of any of the Planters, or Engliſh Inhabitants there, otherwiſe then by the Licence of the ſayd Preſident and Counſell, or for the neceſſary vſe of their Fiſhing on thoſe Coaſts, in which caſe of Fiſhing, or vnder colour thereof, they are not to vſe any Trade or Traffique there, nor to challenge any Right to the Soyle there, or the Woods growing or beeing thereon, and eſpecially Wee doe charge and command, that neither any Interlo<g ref="char:EOLhyphen"/>pers, Fiſher-men, or Mariners, or any other of Our Subiects whatſoeuer, being of the ſaid Company of <hi>New England</hi> or otherwiſe, doe at any time hereafter dare to Sell, Barter, or any wayes to deliuer or conuey vnto any of the Saluages or Natiues of <hi>America,</hi> where any of Our Engliſh Colonies are or ſhall bee planted, any Weapons or Habiliments of Warre of any kinde whatſoeuer, or to teach them or any of them the vſe of Gunnes, or how to make or amend them, or any thing belonging to them, vpon paine of Our high indignation, and the Confiſcation, Penalties and Forfeitures expreſſed in the ſaid Royall Graunt of Our ſayd Father, wherein Wee ſhall proceede againſt thoſe who haue offended, or ſhall offend in any of the premiſſes, in ſuch manner and meaſure as the qualitie of their Offences ſhall deſerue. And yet further Wee leaue it to the diſcretion of the ſaid Preſident &amp; Counſell for <hi>New England,</hi> and to other the Gouernours and Counſell in any other Forreigne Engliſh Colonie in their ſeuerall places reſpectiuely, to proceede againſt the Offenders in any the kindes aforeſaid, ac<g ref="char:EOLhyphen"/>cording to the powers already granted vnto them, and according to Our Lawes in that behalfe.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Whitehall,</hi> 
+                  <date>
+                     <hi>the foure and twentieth day of Nouember, in the ſixt yeere of Our Reigne of Great Britaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie: and by the Aſsignes of Iohn Bill. 1630.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
